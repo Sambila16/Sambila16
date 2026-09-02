@@ -3,16 +3,29 @@
 🎓**Information Systems Management** student at Ardhi University, Dar es Salaam, Tanzania
 
  Passionate about **Machine Learning**, **Django**, and building local-first AI tools
+ 
 ___
+
+
 Currently working on:
+
 ___
+
 - **NeuroVisionX** - a MobileNetV2-based image classifier (mining vs. construction vs. not_rock) for my dissertation, built with TensorFlow/Keras and served through Django
 - **pc_chatbot** - a local, PC-integrated AI assistant built with Flask and Ollama (LLaMA 3.2), with tool-calling for file access and system control
 
+
+
 Also exploring MLOps, voice assistants (built a fully local one called **Jarvis** using faster-whisper + Ollama), and forex trading basics
+
 ____
+
+
 🛠️ **Tech | Work:**
+
 ___
+
+
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
@@ -29,22 +42,34 @@ ___
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vibecode](https://img.shields.io/badge/-Vibecode-8A2BE2?style=flat-square)
+
+
 ___
 
 
 
 ## Areas of Interest
 
+
 Machine learning 🧠 operations (MLOps), applied AI systems, and financial markets.
 
+
 Open to connecting on ML, Django, or dissertation-related projects feel free to reach out!
+
+
 ---
 
+
 ### Currently
+
 ___
+
 Training models by day, debugging Django by night, and occasionally arguing with an LLM (lage LAnguage Model) running on my own laptop. Always open to collaborating on ML, web systems, or anything that makes a computer do something genuinely useful.
 
+
+
 **Thanks for stopping by.**  Dar es Salaam, Tanzania
+
 
 ---
 
