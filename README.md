@@ -67,7 +67,7 @@ Open to connecting on ML, Django, or dissertation-related projects feel free to 
 
 ___
 
-Training models by day, debugging Django by night, and occasionally arguing with an LLM (large LAnguage Model) running on my own laptop. Always open to collaborating on ML, web systems, or anything that makes a computer do something genuinely useful.
+Training models by day, debugging Django by night, and occasionally arguing with an LLM (large Language Model) running on my own laptop. Always open to collaborating on ML, web systems, or anything that makes a computer do something genuinely useful.
 
 
 
