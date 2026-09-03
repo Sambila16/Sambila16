@@ -42,6 +42,9 @@ ___
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vibecode](https://img.shields.io/badge/-Vibecode-8A2BE2?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-20.x-339933?logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-7.x-646CFF?logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-19.x-61DAFB?logo=react&logoColor=black)
 
 
 ___
