@@ -1,6 +1,6 @@
-# Hi, I'm Denisi Sambila 👋
+# Hi, I'm Denisi Sambila
 
-🎓**Information Systems Management** student at Ardhi University, Dar es Salaam, Tanzania
+**Information Systems Management** student at Ardhi University, Dar es Salaam, Tanzania
 
  Passionate about **Machine Learning**, **Django**, and building local-first AI tools
  
@@ -54,7 +54,7 @@ ___
 ## Areas of Interest
 
 
-Machine learning 🧠 operations (MLOps), applied AI systems, and financial markets.
+Machine learning  operations (MLOps), applied AI systems, and financial markets.
 
 
 Open to connecting on ML, Django, or dissertation-related projects feel free to reach out!
