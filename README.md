@@ -10,7 +10,6 @@
 
 # Currently working on:
 
-___
 
 - **NeuroVisionX** - a MobileNetV2-based image classifier (mining vs. construction vs. not_rock) for my dissertation, built with TensorFlow/Keras and served through Django
 - **pc_chatbot** - a local, PC-integrated AI assistant built with Flask and Ollama (LLaMA 3.2), with tool-calling for file access and system control
