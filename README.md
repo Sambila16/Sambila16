@@ -1,5 +1,4 @@
-#                                        
-                                 Hi, I'm Denisi Sambila
+#                                          Hi, I'm Denisi Sambila
 
 **Information Systems Management** student at Ardhi University, Dar es Salaam, Tanzania
 
