@@ -1,6 +1,6 @@
 #                                          Hi, I'm Denisi Sambila
 
-**Information Systems Management** student at Ardhi University, Dar es Salaam, Tanzania
+**Information Systems Management** Software Developer with experience about building web, mobile, and database-driven applications., 
 
  Passionate about **Machine Learning**, **Django**, and building local-first AI tools
  
