@@ -4,7 +4,7 @@
 
  Passionate about **Machine Learning**, **Django**, and building local-first AI tools
  
-___
+
 
 
 Currently working on:
