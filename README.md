@@ -3,9 +3,10 @@
 **Information Systems Management** Software Developer with experience about building web, mobile, and database-driven applications., 
 
  Passionate about **Machine Learning**, **Django**, and building local-first AI tools
+
  
 
-
+#
 
 Currently working on:
 
